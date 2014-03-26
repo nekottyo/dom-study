@@ -39,9 +39,7 @@ GitHub
 https://github.com/sasakipochi/dom-study
 
 SlideShare
+http://www.slideshare.net/sasakipochi/dom-study-32742468
 
 ツチノコブログ
-
-
-
-
+http://tsuchinoko.dmmlabs.com/?p=1095
