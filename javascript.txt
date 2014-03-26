@@ -1,0 +1,18 @@
+○デモ用のJavaScript(コピペ用)
+---------------------
+
+document.body
+document.body.childNodes
+document.body.childNodes[4].childNodes[1].childNodes[7].innerText
+document.body.childNodes[4].childNodes[1].childNodes[7].innerText = "変身!!"
+
+document.getElementById("sample")
+document.getElementById("sample").innerText
+document.getElementById("sample").innerText = "へんしん!!"
+
+document.getElementsByTagName("article")[0].getElementsByTagName("div")[0].innerText
+document.getElementsByTagName("article")[0].getElementsByTagName("div")[0].innerText = "Change!!!"
+
+document.getElementById("sample").style
+document.getElementById("sample").style.color = "yellow"
+
